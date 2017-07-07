@@ -7,6 +7,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = InvisbleHomeCard
 InvisbleHomeCard_FILES = Tweak.xm
+InvisbleHomeCard_FRAMEWORKS = UIKit CoreGraphics
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 

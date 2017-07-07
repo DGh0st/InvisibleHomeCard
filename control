@@ -1,9 +1,9 @@
 Package: com.dgh0st.invisblehomecard
-Name: InvisbleHomeCard
+Name: InvisibleHomeCard
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
-Description: Make homescreen card invisble in app switcher
+Description: Remove homescreen card from app switcher
 Maintainer: DGh0st <deeppwnage@yahoo.com>
 Author: DGh0st <deeppwnage@yahoo.com>
 Section: Tweaks
